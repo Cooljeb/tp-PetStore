@@ -1,6 +1,6 @@
 Joseph BROU
 
-Réalisaiton de l'application de gestion du petstore
+Réalisation de l'application de gestion du petstore
 
 Réalisation des classes/entités de l'application situées dans le package Entités
 Address=> Adresse des Petstore
